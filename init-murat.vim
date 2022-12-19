@@ -76,6 +76,7 @@ highlight ColorColumn ctermbg=darkgrey guibg=darkgrey
 "let g:coc_start_at_startup=0
 set autoindent
 set colorcolumn=+1
+set expandtab
 set foldmethod=syntax
 set ignorecase smartcase
 set nowrap
